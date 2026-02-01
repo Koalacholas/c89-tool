@@ -14,7 +14,7 @@ A Go/Odin-like build tool for strict C89 development.
 
 ```bash
 # Install
-curl -o ~/.local/bin/c https://raw.githubusercontent.com/YOUR_USERNAME/c89-tool/main/c
+curl -o ~/.local/bin/c https://raw.githubusercontent.com/Koalacholas/c89-tool/main/c
 chmod +x ~/.local/bin/c
 
 # Or use the install script
@@ -81,7 +81,7 @@ The tool enforces strict C89 compliance:
 ### Quick Install
 
 ```bash
-curl -o ~/.local/bin/c https://raw.githubusercontent.com/YOUR_USERNAME/c89-tool/main/c
+curl -o ~/.local/bin/c https://raw.githubusercontent.com/Koalacholas/c89-tool/main/c
 chmod +x ~/.local/bin/c
 ```
 
@@ -89,7 +89,7 @@ chmod +x ~/.local/bin/c
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/c89-tool.git
+git clone https://github.com/Koalacholas/c89-tool.git
 cd c89-tool
 
 # Run the install script
