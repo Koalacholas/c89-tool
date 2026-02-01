@@ -1,0 +1,14 @@
+# Build artifacts from testing
+build/
+*.o
+*.a
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
